@@ -3,4 +3,9 @@
 to jest ćwiczenie lab1 z Github
 
 
-![Logo] (https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/01/2-2-768x685.png "Test obrazka")
+
+
+Obrazek 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
